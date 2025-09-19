@@ -20,7 +20,6 @@ This project implements basic CRUD operations (Create, Read, Update, Delete) wit
 ├── Models/            # Entity models
 ├── Views/             # Razor views (UI)
 ├── wwwroot/           # Static files (CSS, JS, images)
-├── App_Data/          # LocalDB or config data
 ├── ContactManager.sln # Solution file
 └── README.md          # Project documentation
 ```
@@ -70,13 +69,6 @@ Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute it.
-
----
-
 ## ✨ Author
 **Lovely** 👩‍💻  
-📧 [your-email@example.com]  
-🔗 [Your LinkedIn or Portfolio]
+📧 [sagarnarigara69@gmail.com] 
